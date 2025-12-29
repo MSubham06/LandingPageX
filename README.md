@@ -1,7 +1,7 @@
 # 🚀 LandingPageX – Professional Coming Soon Pages
 
 <p align="letf">
-  <a href="https://your-live-website-link.com">
+  <a href="https://msubham06.github.io/LandingPageX/">
     <img src="https://img.shields.io/badge/Live%20Website-Visit%20Now-brightgreen?style=for-the-badge" alt="Live Website Button" />
   </a>
 </p>
@@ -74,7 +74,6 @@ Once the landing page is live:
 
 **You can customize everything inside:**
 * `index.html`
-* `style.css` (if separate)
 * `/assets` folder for logos & media
 
 ---
@@ -106,7 +105,7 @@ You are free to use, modify, and distribute the code with proper attribution.
 
 If you'd like a custom Coming Soon page designed for your brand:
 
-* **Email:** msubham06@gmail.com
+* **Email:** msubham246@gmail.com
 * **GitHub:** [https://github.com/MSubham06](https://github.com/MSubham06)
 
 ---
