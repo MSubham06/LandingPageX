@@ -8,7 +8,7 @@
 
 🔥 **Click the button above to view the live version of the landing page.**
 
-Visiting the live website is crucial because it demonstrates the real user experience — animations, responsiveness, email subscription functionality, and design quality cannot be understood from code alone.
+Visiting the live website is crucial because it demonstrates the real user experience animations, responsiveness, email subscription functionality, and design quality cannot be understood from code alone.
 
 ---
 
@@ -58,7 +58,7 @@ Follow these steps to set up the project locally:
 3.  **Open in browser**
     Start by opening `index.html` directly or using a Live Server extension.
 
-💡 **Note:** No build process required — fully static and lightweight.
+💡 **Note:** No build process required fully static and lightweight.
 
 ---
 
@@ -112,4 +112,4 @@ If you'd like a custom Coming Soon page designed for your brand:
 
 ## ⭐ Support This Project
 
-If you found this useful, please give it a ⭐ on GitHub — it really helps!
+If you found this useful, please give it a ⭐ on GitHub, it really helps!
